@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 load_dotenv(".env")
 
 # Streamlit UI
-st.title("🔍 Search Engine: Powered by Agentic AI")
+st.title("🔍 Search Engine: Powered by Agentic AI and It's Context Aware")
 
 with st.sidebar:
     st.title("⚙️ Configuration")
