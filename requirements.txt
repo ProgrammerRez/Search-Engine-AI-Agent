@@ -5,3 +5,4 @@ langchain-groq
 langgraph
 langserve
 streamlit
+ipykernel
