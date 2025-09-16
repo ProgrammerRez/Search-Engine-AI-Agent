@@ -11,6 +11,7 @@ arxiv
 wikipedia
 bs4
 validators
+ddgs
 
 
 ipykernel
